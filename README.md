@@ -22,6 +22,24 @@ The idea of the Prototype model is that instead of defining the requirements bef
 
 A feasibility report is designed to present the individual challanges in a project and talk about any potential solutions to these challenges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
 
+A Feasibility report will contain the following:
+
+Proposed Project Description
+
+This segment is for essentially describing the project that is being worked on and goes into detail about the time contraints and how much the project will cost, not only money but in terms of manpower too..
+
+Market Analysis Section
+
+This section looks at the market that the current project will be targeted at. Detailing the size of the market and its demographic  using availible data or by completing surveys. This is done to determine if a venture into this market will be profitable.
+
+Technical Feasibility Section
+
+Technical Feasibility covers the ability to complete the programming and other techinical challanges and can include information
+
+Financial Feasibility Section
+
+The Financial Feasibility segment is basically outlining and determining how much the proposed project or business start-up will cost to implement, as well as how much it can be expected to earn. In addition this section condisers all the resources, capital investments required, calculating any financing requirements that may or will arise, analysing any potential sources of financing avaliable.
+
 ##### 6. How Can Technical Solutions Be Compared
 
 Technical solutions can be compared based on the following factors:  
