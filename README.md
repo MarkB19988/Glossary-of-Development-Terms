@@ -1,1 +1,2 @@
-# Glossary-of-Development-Terms
+# Glossary of Development Terms
+
