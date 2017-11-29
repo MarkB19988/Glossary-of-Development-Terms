@@ -12,10 +12,11 @@ The Waterfall Model is an example sequential software development process, where
 
 This model is the idea of  developing an initial software idea from very broad specifications. Each version of you make will inherit the best features from earlier versions. Each version is changed based upon feedback from yourself or your team members to produce a system which meets the clients needs. At this point the system may be delivered. development and validation are done at the same time with feedback between each.
 
-#####
+##### 4. Prototype Model
 
+The idea of the Prototype model is that instead of defining the requirements before a design or coding can proceed, a disposable prototype is built to understand the requirements. This idea in this prototype are then developed further as requirements are understood and mapped out.
 
-##### 2.  Feasibility Report
+##### 5.  Feasibility Report
 
 A feasibility report is designed to present the individual challanges in a project and talk about any potential solutions to these challanges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
 
