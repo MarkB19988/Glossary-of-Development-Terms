@@ -20,4 +20,19 @@ The idea of the Prototype model is that instead of defining the requirements bef
 
 A feasibility report is designed to present the individual challanges in a project and talk about any potential solutions to these challanges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
 
+##### 6. How Can Technical Solutions Be Compared
+
+Technical solutions can be compared based on the following factors:  
+
+Fitness: Does the technology address the problem at hand, or is it being used for an unintended purpose?
+
+Maturity: It's risky to use version 1.0 of anything. Both hardware and software companies are frequently pressed to release products before they are ready.
+
+Support: If something goes wrong, who/how many people can help solve the problem? While commercial (paid) support is appreciated, open-source products with large numbers of helpful users can be even more valuable.
+
+Reliability/availability/scalability: Does the technology support the required usage volume? Does it offer fail-over mechanisms for high availability?
+
+License and support costs: What are the one-time and annual costs of using a technology? While my developers might have a fondness for certain proprietary software, is there an adequate free or low-cost open-source alternative? Keep in mind that even open-source software can be expensive if the vendor restricts commercial use or has inconvenient licensing terms.
+
+
 
