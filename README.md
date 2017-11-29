@@ -4,6 +4,8 @@
 
 The Spiral lifecycle model is an example of a risk-driven model. This means that the success of a project depends on how well risk analysis is carried our. Analysis is the process of estimating and monitoring the probability of completing tehnical challanges in your project and to account for other possible issues such as cost increases. In the spiral lifecycle model, the higher the risk is deemed to be. the more effort is places on completing that task.
 
+The Spiral model is best used on very large projects with ever changing tasks and challenges that will require new versions of the project to be constantly rolled out. An example of this is the development of operating systems such as iOS, as new versions are required to be released and tested regularly.
+
 ##### 2. Waterfall Model
 
 The Waterfall Model is an example sequential software development process, where progress flows toward the conclusion. through the phases of a project (analysis, planning, design, development, testing). This involves fully documenting a project in advance, including the user interface, user stories, and all the features’ variations and outcomes.
@@ -18,7 +20,7 @@ The idea of the Prototype model is that instead of defining the requirements bef
 
 ##### 5.  Feasibility Report
 
-A feasibility report is designed to present the individual challanges in a project and talk about any potential solutions to these challanges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
+A feasibility report is designed to present the individual challanges in a project and talk about any potential solutions to these challenges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
 
 ##### 6. How Can Technical Solutions Be Compared
 
