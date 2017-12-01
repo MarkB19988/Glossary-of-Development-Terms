@@ -12,7 +12,7 @@ The Waterfall Model is an example sequential software development process, where
 
 ##### 3. Evolutionary Model
 
-This model is the idea of  developing an initial software idea from very broad specifications. Each version of you make will inherit the best features from earlier versions. Each version is changed based upon feedback from yourself or your team members to produce a system which meets the clients needs. At this point the system may be delivered. development and validation are done at the same time with feedback between each.
+This model is the idea of developing an initial software idea from very broad specifications. Each version of you make will inherit the best features from earlier versions. Each version is changed based upon feedback from yourself or your team members to produce a system which meets the clients needs. At this point the system may be delivered. development and validation are done at the same time with feedback between each.
 
 ##### 4. Prototype Model
 
@@ -34,11 +34,11 @@ This section looks at the market that the current project will be targeted at. D
 
 Technical Feasibility Section
 
-Technical Feasibility covers the ability to complete the programming and other techinical challanges and can include information
+Technical Feasibility covers the ability to complete the programming and other techinical challanges
 
 Financial Feasibility Section
 
-The Financial Feasibility segment is basically outlining and determining how much the proposed project or business start-up will cost to implement, as well as how much it can be expected to earn. In addition this section condisers all the resources, capital investments required, calculating any financing requirements that may or will arise, analysing any potential sources of financing avaliable.
+The Financial Feasibility section talks about any costs that come with the project and if the venture is profitable, this can include costs of software, staff payments and bills.
 
 ##### 6. How Can Technical Solutions Be Compared
 
