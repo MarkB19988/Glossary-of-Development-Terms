@@ -54,5 +54,7 @@ Reliability/availability/scalability: Does the technology support the required u
 
 License and support costs: What are the one-time and annual costs of using a technology? While my developers might have a fondness for certain proprietary software, is there an adequate free or low-cost open-source alternative? Keep in mind that even open-source software can be expensive if the vendor restricts commercial use or has inconvenient licensing terms.
 
+##### 7. The Importance of Team Dynamics
 
+Team Dynamics referes to anything to do with the relationship between the members of a team and how it impacts the perfomace of the team. Dynamics can be affected by certain variables such as roles and responsabilities and all have an affect on productivity. For example, if a group of 4 friends were working together on a project, this past relationship could have a positive or a negative impact on how well the team works together. The friends past relationship could allow them to get to work more quickly, and understand eachother strengths and weaknesses straight away, allowing each member to work to their strengths and support eachother easily. On the other hand, the group could easily begin to argue, as they would likley spend their time outside of the work enviroment together too and person arguments could then affect the performance of memebers. 
 
