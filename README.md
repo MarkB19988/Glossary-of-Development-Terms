@@ -52,7 +52,7 @@ Support: If something goes wrong, who/how many people can help solve the problem
 
 Reliability/availability/scalability: Does the technology support the required usage volume? Does it offer fail-over mechanisms for high availability?
 
-License and support costs: What are the one-time and annual costs of using a technology? While my developers might have a fondness for certain proprietary software, is there an adequate free or low-cost open-source alternative? Keep in mind that even open-source software can be expensive if the vendor restricts commercial use or has inconvenient licensing terms.
+License and support costs: What are the one-time and annual costs of using a technology? While you might have a favorite piece of software, is there an adequate free or low-cost open-source alternative? Keep in mind that even open-source software can be expensive if the vendor restricts commercial use or has inconvenient licensing terms.
 
 ##### 7. The Importance of Team Dynamics
 
