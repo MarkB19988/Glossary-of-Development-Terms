@@ -4,6 +4,16 @@
 
 The Spiral lifecycle model is an example of a risk-driven model. This means that the success of a project depends on how well risk analysis is carried our. Analysis is the process of estimating and monitoring the probability of completing tehnical challanges in your project and to account for other possible issues such as cost increases. In the spiral lifecycle model, the higher the risk is deemed to be. the more effort is places on completing that task.
 
+###### How Risk Is Managed
+
+Risks are events that could potentially prevent the development team from reaching its objective. There are alot of possible risks, from trivial to fatal. Trivial are risks that could cause delays to the project but not stop the completion of the project as a whole. Fatal risks are ones that could stop the enire project form being completed.
+
+The first task for the development team is to all the possible risks and prioritize them according to importance and how much impact they could have on the project. By prioritizing, a team can focus on minizing the risks that would have the biggest impact on the success of the project.
+
+The next step is for the team to come up with any potential solutions that can help to overcome or minimize the risks. The solutions can cause changes at the next steps as they may involve doing stages differently or some stages taking more time to complete. At the end of the risk management stage, a prototype is produced.
+
+###### What Is It Best Used For?
+
 The Spiral model is best used on very large projects with ever changing tasks and challenges that will require new versions of the project to be constantly rolled out. An example of this is the development of operating systems such as iOS, as new versions are required to be released and tested regularly.
 
 ##### 2. Waterfall Model
