@@ -34,19 +34,19 @@ A feasibility report is designed to present the individual challanges in a proje
 
 A Feasibility report will contain the following:
 
-Proposed Project Description
+###### Proposed Project Description
 
 This segment is for essentially describing the project that is being worked on and goes into detail about the time contraints and how much the project will cost, not only money but in terms of manpower too..
 
-Market Analysis Section
+###### Market Analysis Section
 
 This section looks at the market that the current project will be targeted at. Detailing the size of the market and its demographic  using availible data or by completing surveys. This is done to determine if a venture into this market will be profitable.
 
-Technical Feasibility Section
+###### Technical Feasibility Section
 
-Technical Feasibility covers the ability to complete the programming and other techinical challanges
+Technical Feasibility covers the ability to complete the programming and other techinical challanges.
 
-Financial Feasibility Section
+###### Financial Feasibility Section
 
 The Financial Feasibility section talks about any costs that come with the project and if the venture is profitable, this can include costs of software, staff payments and bills.
 
