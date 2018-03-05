@@ -30,7 +30,7 @@ The idea of the Prototype model is that instead of defining the requirements bef
 
 ##### 5.  Feasibility Report
 
-A feasibility report is designed to present the individual challanges in a project and talk about any potential solutions to these challenges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
+A feasibility report is a report that is made to determine how feasible a project is before the project begins. The different sections are designed to present the individual challanges in that section and talk about any potential solutions to these challenges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
 
 A Feasibility report will contain the following:
 
