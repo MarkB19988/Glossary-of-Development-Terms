@@ -2,7 +2,7 @@
 
 ##### 1. Spiral Lifecycle Model (Iterative)
 
-The Spiral lifecycle model is an example of a risk-driven model. This means that the success of a project depends on how well risk analysis is carried our. Analysis is the process of estimating and monitoring the probability of completing tehnical challanges in your project and to account for other possible issues such as cost increases. In the spiral lifecycle model, the higher the risk is deemed to be. the more effort is places on completing that task.
+The Spiral lifecycle model is an example of a risk-driven model. This means that the success of a project depends on how well risk analysis is carried our. Analysis is the process of estimating and monitoring the probability of completing tehnical challanges in your project and to account for other possible issues such as cost increases. In the spiral lifecycle model, the higher the risk is deemed to be. the more effort is placed on completing that task.
 
 ###### How Risk Is Managed
 
@@ -26,7 +26,7 @@ This model is the idea of developing an initial software idea from very broad sp
 
 ##### 4. V-Model (Sequential)
 
-The V-Model can also be considered an extension of the waterfall model. Instead of moving down step by step like the waterfall model,  the process steps are bent upwards after the implementation and coding phase, to form a V shape. This V shape demonstrates the relationships between each phase of the development life cycle and its associated phase of testing. The major difference between V-shaped model and waterfall model is the implementation of the early test planning in the V-shaped model. 
+The V-Model can also be considered an evolution of the waterfall model. Instead of stepping down like the waterfall model, the  steps are displyed upwards after the coding phase, to form a V shape. This V shape shows what relationship each step has between its associated testing phase. The biggest difference between the V model and the waterfall model is the implementation early test planning in the V model. 
 
 ##### 5.  Feasibility Report
 
@@ -54,15 +54,13 @@ The Financial Feasibility section talks about any costs that come with the proje
 
 Technical solutions can be compared based on the following factors:  
 
-Fitness: Does the technology address the problem at hand, or is it being used for an unintended purpose?
+Fitness: Does the software address and fix the given problem, or is it being used for an unintended and possibly malicious purpose?
 
-Maturity: It's risky to use version 1.0 of anything. Both hardware and software companies are frequently pressed to release products before they are ready.
+Maturity: It's risky to use the first version of anything, including software. Both hardware and software development companies are frequently pressured to release products before they are ready. This can lead to issues with the product being found by users after release. 
 
-Support: If something goes wrong, who/how many people can help solve the problem? While commercial (paid) support is appreciated, open-source products with large numbers of helpful users can be even more valuable.
+Support: If the product goes wrong, who can help resolve the issue? While commercial support is appreciated, open-source products with large numbers of users can prove to be even more valuable in the area of problem solving.
 
-Reliability/availability/scalability: Does the technology support the required usage volume? Does it offer fail-over mechanisms for high availability?
-
-License and support costs: What are the one-time and annual costs of using a technology? While you might have a favorite piece of software, is there an adequate free or low-cost open-source alternative? Keep in mind that even open-source software can be expensive if the vendor restricts commercial use or has inconvenient licensing terms.
+License and support costs: What are both the one time and annual costs of using the technology? You may have a favorite piece of software to use for this task, however you have to ask 'is there an free or low-cost alternative?' However even open source software can be expensive if the vendor restricts commercial or business use or has bad licensing terms.
 
 ##### 7. The Importance of Team Dynamics
 
