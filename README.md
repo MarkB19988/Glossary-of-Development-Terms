@@ -10,7 +10,7 @@ The Spiral lifecycle model is an example of a risk-driven model. This means that
 
 ###### Disadvantages
 - Can be costly to use
-- Doesn't work well for small projects
+- Can be difficult to know what to do next
 
 ###### How Risk Is Managed in the Spiral Lifecycle Model
 The spiral lifecycle model is risk-driven and success of the project is heavily influenced by how well the risk analysis is carried out. Risks are evaluaed after every iteration of the project. Risk analysis after every iteration requires someone to have a specific skillset. There are alot of possible risks, from trivial to fatal. Trivial are risks that could cause delays to the project but not stop the completion of the project as a whole. Fatal risks are ones that could stop the enire project form being completed.
@@ -30,7 +30,7 @@ The Waterfall Model is an example sequential software development process, where
 - Phases do not overlap
 
 ###### Disadvantages
-- Dificult to go back and change things
+- Difficult to go back and change things
 - High amount of risk
 
 
@@ -54,8 +54,8 @@ This model is the idea of developing an initial software idea from very broad sp
 - Easy management thanks to a review after each phase
 
 ###### Disadvantages
- - Not good for more complex projects where things might change
- - No prototypes are developed that can limit early client feedback
+ - Not good for more complex projects where requirements may be unstable
+ - Limit opportunity for early client feedback
  
 ##### 5.  Feasibility Report
 A feasibility report is a report that is made to determine how feasible a project is before the project begins. The different sections are designed to present the individual challanges in that section and talk about any potential solutions to these challenges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
