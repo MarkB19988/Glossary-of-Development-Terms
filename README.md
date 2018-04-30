@@ -25,14 +25,37 @@ The Spiral model is best used on very large projects with ever changing tasks an
 ##### 2. Waterfall Model (Sequentional)
 The Waterfall Model is an example sequential software development process, where progress flows toward the end. The main phases that any software delopment task would go through are analysis, planning, design, development and testing. The waterfall model involves fully planning and documenting each of these stages in advance and sticking to this plan. In the waterfall model there is no room for change once the plan has been put in place, every stage in the waterfall model has a set time for completion and if this deadline is missed is can prove to be very difficult to go back.
 
+###### Advantages
+- Easy to see what needs to be done next
+- Phases do not overlap
+
+###### Disadvantages
+- Dificult to go back and change things
+- High amount of risk
+
 
 ##### 3. Evolutionary Model (Iterative)
 This model is the idea of developing an initial software idea from very broad specifications. Each version of you make will inherit the best features from earlier versions. Each version is changed based upon feedback from yourself or your team members to produce a system which meets the clients needs. At this point the system may be delivered. development and validation are done at the same time with feedback between each.
+
+###### Advantages
+- Better risk analysis than sequential models
+- Early prototypes allow for early client feedback
+
+###### Disadvantages
+- Not good for smaller projects
+- Can create a higher workload than other models
 
 
 ##### 4. V-Model (Sequential)
  The V Model is a sequential model in which the steps flow downwards towards the goal. However, the steps are displyed upwards after the coding phase, to form a V shape. This V shape shows what relationship each step has between its associated testing phase. The biggest difference between the V model and the waterfall model is the implementation early test planning in the V model. At the end of the V model is the Verification and Validation phase that happens after all of the testing is completed, this phase is about testing the project as a whole and making sure that everything works together as intended.
  
+###### Advantages
+- Easy to understand and simple to use
+- Easy management thanks to a review after each phase
+
+###### Disadvantages
+ - Not good for more complex projects where things might change
+ - No prototypes are developed that can limit early client feedback
  
 ##### 5.  Feasibility Report
 A feasibility report is a report that is made to determine how feasible a project is before the project begins. The different sections are designed to present the individual challanges in that section and talk about any potential solutions to these challenges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
