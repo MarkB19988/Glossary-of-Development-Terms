@@ -24,9 +24,9 @@ The Waterfall Model is an example sequential software development process, where
 
 This model is the idea of developing an initial software idea from very broad specifications. Each version of you make will inherit the best features from earlier versions. Each version is changed based upon feedback from yourself or your team members to produce a system which meets the clients needs. At this point the system may be delivered. development and validation are done at the same time with feedback between each.
 
-##### 4. Prototype Model
+##### 4. V-Model (Sequential)
 
-The idea of the Prototype model is that instead of defining the requirements before a design or coding can proceed, a disposable prototype is built to understand the requirements. This idea in this prototype are then developed further as requirements are understood and mapped out.
+The V-Model can also be considered an extension of the waterfall model. Instead of moving down step by step like the waterfall model,  the process steps are bent upwards after the implementation and coding phase, to form a V shape. This V shape demonstrates the relationships between each phase of the development life cycle and its associated phase of testing. The major difference between V-shaped model and waterfall model is the implementation of the early test planning in the V-shaped model. 
 
 ##### 5.  Feasibility Report
 
