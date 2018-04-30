@@ -6,7 +6,7 @@ The Spiral lifecycle model is an example of a risk-driven model. This means that
 
 ###### How Risk Is Managed in the Spiral Lifecycle Model
 
-As stated previously, the spiral lifecycle model is risk-driven and success of the project is heavily influenced by how well the risk analysis is carried out. Risks are evaluaed after every iteration of the project. Risk analysis after every iteration requires someone to have a specific skillset. There are alot of possible risks, from trivial to fatal. Trivial are risks that could cause delays to the project but not stop the completion of the project as a whole. Fatal risks are ones that could stop the enire project form being completed.
+The spiral lifecycle model is risk-driven and success of the project is heavily influenced by how well the risk analysis is carried out. Risks are evaluaed after every iteration of the project. Risk analysis after every iteration requires someone to have a specific skillset. There are alot of possible risks, from trivial to fatal. Trivial are risks that could cause delays to the project but not stop the completion of the project as a whole. Fatal risks are ones that could stop the enire project form being completed.
 
 After every iteration, the team will come togther and check if all risks from the previous iteration have been dealt with. Once this is done, they will then analyse the new iteration and produce a new set of risks that are related to this iteration and start the process of dealing with and minimizing these new risks until the next iteration is released.
 
