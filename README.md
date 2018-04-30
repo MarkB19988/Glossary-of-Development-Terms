@@ -30,8 +30,9 @@ This model is the idea of developing an initial software idea from very broad sp
 ##### 5.  Feasibility Report
 A feasibility report is a report that is made to determine how feasible a project is before the project begins. The different sections are designed to present the individual challanges in that section and talk about any potential solutions to these challenges. When potential solutions are presented, they are expanded upon in depth to explain exactly how this would solve the problem. Once a solution is agreed upon, it is sent to the project manager for authorization.
 
-A Feasibility report will contain the following:
+Requirement gathering is a key part of any feasibility report. It relates to finding out what you and your team will need in order to complete the project. This can include what software will be required, how many people will be required or any assets that will need to be purchased to name a few.
 
+A Feasibility report will contain review and research on the following:
 
 ###### Proposed Project Description
 This section is for describing the project that is being worked on and goes into detail about the time contraints and how much the project will cost, not only in terms of money but in terms of manpower too. This section can vary in size and detail depending on the type of project that is being worked on.
