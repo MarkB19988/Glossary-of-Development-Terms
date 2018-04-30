@@ -4,6 +4,13 @@
 ##### 1. Spiral Lifecycle Model (Iterative)
 The Spiral lifecycle model is an example of a risk-driven model. This means that the success of a project depends on how well risk analysis is carried our. Each risk is analysed and ordered based on how severe each risk is. This analysis involves estimating the probability of completing tehnical challanges in your project and accounting for other possible issues such as cost increases. In the spiral lifecycle model, the higher the risk is deemed to be. the more effort is placed on completing that task.
 
+###### Advantages
+- Flexible, allows for changes in the project during development
+- Useful for larger projects
+
+###### Disadvantages
+- Can be costly to use
+- Doesn't work well for small projects
 
 ###### How Risk Is Managed in the Spiral Lifecycle Model
 The spiral lifecycle model is risk-driven and success of the project is heavily influenced by how well the risk analysis is carried out. Risks are evaluaed after every iteration of the project. Risk analysis after every iteration requires someone to have a specific skillset. There are alot of possible risks, from trivial to fatal. Trivial are risks that could cause delays to the project but not stop the completion of the project as a whole. Fatal risks are ones that could stop the enire project form being completed.
