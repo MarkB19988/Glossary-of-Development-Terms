@@ -16,7 +16,7 @@ The Spiral model is best used on very large projects with ever changing tasks an
 
 ##### 2. Waterfall Model (Sequentional)
 
-The Waterfall Model is an example sequential software development process, where progress flows toward the conclusion. through the phases of a project (analysis, planning, design, development, testing). This involves fully documenting a project in advance, including the user interface, user stories, and all the features’ variations and outcomes.
+The Waterfall Model is an example sequential software development process, where progress flows toward the end. The main phases that any software delopment task would go through are analysis, planning, design, development and testing. The waterfall model involves fully planning and documenting each of these stages in advance and sticking to this plan. In the waterfall model there is no room for change once the plan has been put in place.
 
 ##### 3. Evolutionary Model (Iterative)
 
