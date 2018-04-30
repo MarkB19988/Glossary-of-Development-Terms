@@ -24,7 +24,7 @@ This model is the idea of developing an initial software idea from very broad sp
 
 ##### 4. V-Model (Sequential)
 
-The V-Model can also be considered an evolution of the waterfall model. Instead of stepping down like the waterfall model, the  steps are displyed upwards after the coding phase, to form a V shape. This V shape shows what relationship each step has between its associated testing phase. The biggest difference between the V model and the waterfall model is the implementation early test planning in the V model. 
+ The V Model is a sequential model in which the steps flow downwards towards the goal. However, the steps are displyed upwards after the coding phase, to form a V shape. This V shape shows what relationship each step has between its associated testing phase. The biggest difference between the V model and the waterfall model is the implementation early test planning in the V model. At the end of the V model is the Verification and Validation phase that happens after all of the testing is completed, this phase is about testing the project as a whole and making sure that everything works together as intended.
 
 ##### 5.  Feasibility Report
 
