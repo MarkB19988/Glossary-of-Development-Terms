@@ -19,7 +19,7 @@ After every iteration, the team will come togther and check if all risks from th
 
 
 ###### What Is It Best Used For?
-The Spiral model is best used on very large projects with ever changing tasks and challenges that will require new versions of the project to be constantly rolled out. An example of this is the development of operating systems such as iOS, as new versions are required to be released and tested regularly.
+The Spiral model is best used on very large projects with ever changing tasks and challenges that will require new versions of the project to be constantly rolled out. This is because the spiral model allows for changes to be made between iterations. An example of this is the development of operating systems such as iOS, as new versions are required to be released and tested regularly.
 
 
 ##### 2. Waterfall Model (Sequentional)
